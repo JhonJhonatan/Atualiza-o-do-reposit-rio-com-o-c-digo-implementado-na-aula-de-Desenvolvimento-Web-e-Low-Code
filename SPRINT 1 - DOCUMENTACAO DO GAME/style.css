@@ -66,6 +66,7 @@ h3 {
   text-align: center;
   position: center;
   width: 100%;
+  border-radius: 5px;;
 }
 
 header {
@@ -75,28 +76,12 @@ header {
   background-color: black;
 }
 
-header nav {
-  float: right;
-}
-
-header nav ul li a {
-  display: inline-block;
-  margin: 4%;
-  font-size: 20px;
-  text-transform: capitalize;
-  font-weight: bold;
-}
-
-
 html {
   scroll-behavior: smooth;
-}
-
-footer nav ul li {
-  width: 14%;
 }
 
 .img-cabecas {
   width: 30%;
   height: 30%;
 }
+
