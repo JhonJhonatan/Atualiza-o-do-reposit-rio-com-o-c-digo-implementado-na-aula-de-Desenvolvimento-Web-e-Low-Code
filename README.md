@@ -1,1 +1,1 @@
-Atualização do repositório com o código implementado na aula de Desenvolvimento Web e Low Code
+Desenvolvimento do Jogo no modo de rpg historico aonde o objetivo é matar o inimigo principal, jogo em desenvolvimento!
